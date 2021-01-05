@@ -9,6 +9,5 @@
 - Failing to decrypt (OverflowException)
 
 # Credits:
-ZrCulillo - https://github.com/ZrCulillo/JIT-Freezer
-
-0xd4d - https://github.com/dnlib/dnlib
+- ZrCulillo - https://github.com/ZrCulillo/JIT-Freezer
+- 0xd4d - https://github.com/dnlib/dnlib
